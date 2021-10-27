@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kuka
+- 👀 I’m interested in creating os based on KUbuntu
+- 🌱 I’m currently learning Github
