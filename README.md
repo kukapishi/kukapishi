@@ -4,3 +4,4 @@
 - 🐧 I know Batch (60%) and Shell (20%)
 - 💜 I like purple
 - 📃 I like creating websites
+- ⚙️ Currently developing "Start tool"
