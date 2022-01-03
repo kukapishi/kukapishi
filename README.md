@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kuka
 - 👀 I’m interested in creating os based on Kubuntu
 - 🌱 I’m currently learning Github
-- 🐧 I know Batch (60%) and Shell (20%)
+- 🐧 I know Batch, HTML, CSS and Bash
 - 💜 I like purple
 - 📃 I like creating websites
-- ⚙️ Currently developing "Start tool"
