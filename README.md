@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Kuka
-- 🐧 I know Batch, HTML, CSS and Bash
-- 💜 I like purple
-- 📃 I like creating websites
+hi xd
+i like bobux
+we like bobux
+i like designing
+idk
+im learning python rn
+i know html
+not learning css (i know only a bit more than basics)
