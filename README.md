@@ -1,15 +1,10 @@
-hi xd
+# welcome to my profile!
+hi, i am kuka, currently learning lua and python, living in russia
 
-i like bobux
+## programming languages i know
+- python (learning)
+- css (not learning, because im lazy ass, and i dont want to)
+- html
+- lua (learning)
 
-we like bobux
-
-i like designing
-
-idk
-
-im learning python rn
-
-i know html
-
-not learning css (i know only a bit more than basics)
+> also i started coding like at the end of 2021, so im noob at this
