@@ -2,9 +2,9 @@
 hi, i am kuka, currently learning java and python, living in russia
 
 ## programming languages i know
-- python (learning)
-- css (not learning, because im lazy ass, and i dont want to)
+- python (i know like half of it, gonna continue learning later)
+- css (like half of it i think)
 - html
-- java (learning)
+- js (learning)
 
 > also i started coding like at the end of 2021, so im noob at this
