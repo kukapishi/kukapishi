@@ -1,5 +1,5 @@
 # welcome to my profile!
-hi, i am kuka, currently learning java and python, living in russia
+hi, i am kuka, currently learning javascript, living in russia
 
 ## programming languages i know
 - python (i know like half of it, gonna continue learning later)
