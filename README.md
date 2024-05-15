@@ -7,5 +7,3 @@ my telegram - @kukapishixdd
 - css (like half of it i think)
 - html
 - js (learning)
-
-> also i started coding like at the end of 2021, so im noob at this
